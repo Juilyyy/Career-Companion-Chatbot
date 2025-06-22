@@ -75,8 +75,7 @@ Late nights, coffee, and questionable snack choices
 🙋‍♀️ Created By
 
 Juily Pachundkar
-Data Science Graduate Student | Builder of Bots | Advocate for Clear Dashboards and Cleaner Code
-LinkedIn: https://www.linkedin.com/in/juily-pachundkar/
+LinkedIn: https://www.linkedin.com/in/juilyp/
 Portfolio: https://juilyyy.github.io/
 
 🗨️ Feedback
