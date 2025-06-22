@@ -7,7 +7,7 @@ Hosted at: https://juilyyy.github.io/Career-Companion-Chatbot/
 
 🎯 Project Purpose
 
-This chatbot is part of my personal portfolio and was originally built as an academic assignment using IBM Watson Assistant. But it’s evolved into something much cooler: a conversational layer for discovering my work, skills, and hobbies — without clicking through a dozen tabs.
+This chatbot is part of my personal portfolio and was originally built as an academic assignment using IBM Watson Assistant. But it’s evolved into something much cooler: a conversational layer for discovering my work, skills, and hobbies.
 
 💡 Features
 
@@ -31,9 +31,6 @@ Hosted via GitHub Pages for easy, public access
 
 “What kind of data projects have you worked on?”
 
-“Can you summarize your skillset?”
-
-“How do I interact with this chatbot?”
 
 🛠️ How It Works
 
@@ -81,4 +78,4 @@ Portfolio: https://juilyyy.github.io/
 
 🗨️ Feedback
 
-If you find it helpful, awesome. If not, don’t worry — I’m already thinking about v2.
+If you find it helpful, awesome. If not, don’t worry I’m already thinking about v2.
