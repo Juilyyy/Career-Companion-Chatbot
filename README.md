@@ -3,6 +3,7 @@
 Welcome to Career Companion — your friendly portfolio sidekick! This chatbot was created to make exploring my background, projects, and interests more engaging and interactive. Whether you're a recruiter, classmate, or just curious, ask away!
 
 Hosted at: https://juilyyy.github.io/Career-Companion-Chatbot/
+           https://sites.google.com/colorado.edu/juily-pachundkar/about-me
 
 🎯 Project Purpose
 
